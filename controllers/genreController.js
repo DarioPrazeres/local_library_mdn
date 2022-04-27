@@ -118,13 +118,13 @@ exports.genre_delete_post = function(req, res, next){
         return next(err);
       }
       if(results.genre_books.length>0){
-        res.render('author_delete', {title:'Delete Genre', genre:results.genre, genre_books:results.genre_books});
+        res.render('genre_delete', {title:'Delete Genre', genre:results.genre, genre_books:results.genre_books});
         return;
       }
       else{
         Genre.findByIdAndRemove(req.body.genreid, function deleteGenre(err){
           if(err){
-            next(err);
+            return next(err);
           }
           res.redirect('/catalog/genres');
         })
