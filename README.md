@@ -43,12 +43,9 @@ https://sheltered-ravine-33613.herokuapp.com/
 
 <img src='https://github.com/DarioPrazeres/local_library_mdn/blob/main/public/images/banner.png'>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+<p>This a copy of MDN tutorial. This project is a Libray where you have acess to Create, Read, Update and Delete. This ptroject help me undeertand concept as CRUD and MVC (Model, View and Control) </p>
+<p>The user can create Book, Author, Genre and Book instance.</p>
+<p>Ther is a way to delete some item in project you can not delete Genre if there is a Book with depend that.</p>
 
 ### Built With
 
@@ -56,23 +53,30 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [Express](https://expressjs.com/)
 - [Pug](https://pugjs.org/)
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/) 
+- [Mongoose](https://mongoosejs.com/)
+- [MongoDB](https://mongodb.com/)
 
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application was created as a submission to a [The Odin Project](https://theodinproject.com) challenge. 
 
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
-
+- [Express](https://expressjs.com/)
+- [Pug](https://pugjs.org/)
+- [Node.js](https://nodejs.org/) 
+- [Mongoose](https://mongoosejs.com/)
+- [MongoDB](https://mongodb.com/)
+- [Nodemon](https://nodemon.io/)
+- [NPM](https://npmjs.com/)
 ## Contact
 
 - GitHub [@DarioPrazeres](https://{github.com/DarioPrazeres})
