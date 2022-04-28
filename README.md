@@ -1,7 +1,5 @@
 # local_library_mdn
 
-https://sheltered-ravine-33613.herokuapp.com/ 
-
 <!-- Please update value in the {}  -->
 
 <h1 align="center">Local library</h1>
