@@ -41,7 +41,7 @@ https://sheltered-ravine-33613.herokuapp.com/
 
 ## Overview
 
-<img src='../public/images/banner.png'>
+<img src='https://github.com/DarioPrazeres/local_library_mdn/blob/main/public/images/banner.png'>
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
