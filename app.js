@@ -2,7 +2,7 @@ var createError = require('http-errors');
 var express = require('express');
 var compression = require('compression');
 var helmet = require('helmet');
-var dev_db_url = 'mongodb+srv://m001-student:m001-mongodb-basics@cluster0.0cgbl.mongodb.net/Library?retryWrites=true&w=majority';
+var dev_db_url = 'mongoDB://127.0.0.1/library';
 var mongoose = require('mongoose');
 var mongoDB = process.env.MONGODB_URI || dev_db_url; //'mongodb+srv://m001-student:m001-mongodb-basics@cluster0.0cgbl.mongodb.net/Library?retryWrites=true&w=majority';
 mongoose.connect(mongoDB, {useNewUrlParser:true});                                                                     
