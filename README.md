@@ -4,6 +4,10 @@
 
 <h1 align="center">Local library</h1>
 
+<div align='center'>
+   <img src='https://img.shields.io/github/issues/DarioPrazeres/local_library_mdn'> <img src='https://img.shields.io/github/forks/DarioPrazeres/local_library_mdn'> <img        src='https://img.shields.io/github/stars/DarioPrazeres/local_library_mdn'> <img src='https://img.shields.io/github/license/DarioPrazeres/local_library_mdn'>
+</div>
+
 <div align="center">
    Solution for a challenge from  <a href="theodinproject.com" target="_blank">The Odin Project</a>.
 </div>
@@ -75,8 +79,24 @@ This application was created as a submission to a [The Odin Project](https://the
 - [MongoDB](https://mongodb.com/)
 - [Nodemon](https://nodemon.io/)
 - [NPM](https://npmjs.com/)
+
+## How to Work
+
+<p>For you run this project in your pc you need to install:</p>
+
+- [Node.js](https://nodejs.org/) 
+- [NPM](https://npmjs.com/)
+- A code editor as:[VS code](https://code.visualstudio.com/)
+
+<p>After you need to clone this repository, you need to open the terminal and choose the folder you want to clone</p>
+<p>Run this comand in terminal: <code>git@github.com:DarioPrazeres/local_library_mdn.git</code></p>
+<p>After you clone with sucess</p>
+<p>Run this comand in terminal: <code>npm install</code></p>
+<p>Then open directorin terminal (CMD) and run: <code>npm run devstart</code></p>
+<p>Open Browser and write it in URL: <code>localhost:3000</code></p>
+
 ## Contact
 
-- GitHub [@DarioPrazeres](https://{github.com/DarioPrazeres})
+- GitHub [@DarioPrazeres](https://github.com/DarioPrazeres})
 - Twitter [@dario_prazeres](https://twitter.com/dario_prazeres)
 
