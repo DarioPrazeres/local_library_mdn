@@ -97,6 +97,6 @@ This application was created as a submission to a [The Odin Project](https://the
 
 ## Contact
 
-- GitHub [@DarioPrazeres](https://github.com/DarioPrazeres})
+- GitHub [@DarioPrazeres](https://github.com/DarioPrazeres)
 - Twitter [@dario_prazeres](https://twitter.com/dario_prazeres)
 
